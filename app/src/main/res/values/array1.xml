@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversion_types">
+        <item>Weight</item>
+        <item>Length</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="null_types">
+        <item>null</item>
+        <item>null</item>
+        <item>null</item>
+    </string-array>
+</resources>
